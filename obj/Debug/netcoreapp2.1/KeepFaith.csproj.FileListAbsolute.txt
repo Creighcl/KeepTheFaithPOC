@@ -1,0 +1,11 @@
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\bin\Debug\netcoreapp2.1\KeepFaith.deps.json
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\bin\Debug\netcoreapp2.1\KeepFaith.runtimeconfig.json
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\bin\Debug\netcoreapp2.1\KeepFaith.runtimeconfig.dev.json
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\bin\Debug\netcoreapp2.1\KeepFaith.dll
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\bin\Debug\netcoreapp2.1\KeepFaith.pdb
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.csprojAssemblyReference.cache
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.csproj.CoreCompileInputs.cache
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.AssemblyInfoInputs.cache
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.AssemblyInfo.cs
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.dll
+C:\Users\Creighton\source\repos\KeepFaith\KeepFaith\obj\Debug\netcoreapp2.1\KeepFaith.pdb
